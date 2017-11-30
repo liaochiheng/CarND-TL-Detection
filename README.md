@@ -6,8 +6,8 @@ Traffic light detection used for the final CarND project.
 * `conda env create -f envionment.yml`
 
 ### Directory looks like:
+```
 <CarND-TL-Detection>
-```  
 + data
   + Bosch_Small_TrafficLight_Dataset
     + rgb
